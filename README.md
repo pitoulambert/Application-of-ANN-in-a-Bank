@@ -19,4 +19,4 @@
     EstimatedSalary	<br>
     Exited </b> <br> </h4> </p>
 
-The last column representa wheter or not the client will left the bank.
+The last column represents whether or not the client will leave the bank.
