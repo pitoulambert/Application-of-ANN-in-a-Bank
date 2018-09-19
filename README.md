@@ -3,8 +3,8 @@
 <h1> Will the Client leave the bank ?  <h1>
 
 
-<h4> The dataset which is studied is a sample of 10.000 clients of a bank with the following 13 properties <br>
-<b> RowNumber <br>
+<p><h4> The dataset which is studied is a sample of 10.000 clients of a bank with the following 13 properties <br> </p>
+<p><b> RowNumber <br>
     CustomerId <br>
     Surname	<br>
     CreditScore	<br>
@@ -17,6 +17,6 @@
     HasCrCard	<br>
     IsActiveMember	<br>
     EstimatedSalary	<br>
-    Exited </b> <br> </h4>
+    Exited </b> <br> </h4> </p>
 
 The last column representa wheter or not the client will left the bank.
