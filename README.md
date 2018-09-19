@@ -1,9 +1,9 @@
 
 
-<h1> Will the Client leave the bank ? > <h1>
+<h1> Will the Client leave the bank ?  <h1>
 
 
-<h4> The dataset which is studied is a sample of 10.000 clients of a bank with the following 13 properties
+<h4> The dataset which is studied is a sample of 10.000 clients of a bank with the following 13 properties <br>
 <b> RowNumber <br>
     CustomerId <br>
     Surname	<br>
